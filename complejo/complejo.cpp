@@ -208,18 +208,19 @@ operator>>(istream &is, complejo &c)
 }
 
 
-
-stringtocomplejo(istream& is)
+/*
+complejo& stringtocomplejo(istream& is)
 {
 std::string temp;
 
 if (null)
-eroor
+error
 
 std::cin >> temp
 
+
 string for (size_t i=0,i<stringlen();i++)
-	
+*/	
 
 
 
